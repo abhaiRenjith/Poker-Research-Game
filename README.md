@@ -26,5 +26,6 @@ View player statistics using the “Num Of Players” button.
 How to Contribute Feel free to contribute to the project by forking the repository, making improvements, and submitting pull requests.
 
 **Credits**
+
 Author: Abhai Renjith
 License: MIT License

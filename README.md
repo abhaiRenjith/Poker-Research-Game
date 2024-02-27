@@ -1,4 +1,5 @@
 Card Game Project
+
 Overview
 This project is a simple card game implemented in JavaScript, HTML, and CSS. The game involves shuffling and dealing cards to multiple players, calculating the power of each player's deck, and applying bonuses based on predefined card combinations.
 
